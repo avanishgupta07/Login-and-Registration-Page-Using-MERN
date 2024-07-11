@@ -32,13 +32,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 git clone https://github.com/avanishgupta07/Login-and-Registration-Page-Using-MERN.git
+</br>
 cd Login-and-Registration-Page-Using-MERN
 Copy
-2. Install dependencies for backend
+3. Install dependencies for backend
 cd backend
 npm install
 Copy
-3. Install dependencies for frontend
+4. Install dependencies for frontend
 cd ../frontend
 npm install
 Copy
