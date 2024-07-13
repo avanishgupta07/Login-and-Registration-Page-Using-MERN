@@ -59,7 +59,6 @@ Copy
 
 - User Registration
 - User Login
-- [Add any additional features your application has]
 
 ## Built With
 
