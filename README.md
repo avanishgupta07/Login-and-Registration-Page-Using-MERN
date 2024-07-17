@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 cd ../frontend </br>
 npm install</br>
 </br>
-### Running the application
+#Running the application
 
 1. Start the backend server
   cd ../backend</br>
